@@ -1,0 +1,29 @@
+
+usf-src/xray/xrXMLParser/xrXMLParser.vcxproj.user
+usf-src/xray/xrSound/xrSound.vcxproj.user
+usf-src/xray/xrPhysics/xrPhysics.vcxproj.user
+usf-src/xray/xrParticles/xrParticles.vcxproj.user
+usf-src/xray/xrNetServer/xrNetServer.vcxproj.user
+usf-src/xray/xrGameSpy/xrGameSpy.vcxproj.user
+usf-src/xray/xrGame/xrGame.vcxproj.user
+usf-src/xray/xrEngine/xrEngine.vcxproj.user
+usf-src/xray/xrCPU_Pipe/xrCPU_Pipe.vcxproj.user
+usf-src/xray/xrCore/xrCore.vcxproj.user
+usf-src/xray/xrCDB/xrCDB.vcxproj.user
+usf-src/xray/Layers/xrRenderPC_R4/xrRender_R4.vcxproj.user
+usf-src/xray/Layers/xrRenderPC_R1/xrRender_R1.vcxproj.user
+usf-src/xray/Layers/xrAPI/xrAPI.vcxproj.user
+usf-src/xray.props
+usf-src/3rd party/DxErr/DxErr.vcxproj.user
+usf-src/3rd party/DxErr/DxErr.vcxproj
+usf-src/.vs/engine/v15/Solution.VC.db-wal
+usf-src/.vs/engine/v15/Solution.VC.db-shm
+usf-src/.vs/engine/v15/Solution.VC.db
+usf-src/.vs/engine/v15/Browse.VC.opendb
+usf-src/.vs/engine/v15/Browse.VC.db
+usf-src/.vs/engine/v15/.suo
+intermediate/Release/editor/editor.vcxprojAssemblyReference.cache
+intermediate/Debug/editor_controls/editor_controls.vcxprojAssemblyReference.cache
+intermediate/Debug/editor/editor.vcxprojAssemblyReference.cache
+usf-src/3rd party/DxErr/DxErr.vcxproj
+usf-src/xray.props
